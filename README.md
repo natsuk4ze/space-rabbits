@@ -10,7 +10,7 @@ Hi👋 Space Rabbits is 2D simulation game using DirectX.
 
 ![attack](https://github.com/natsuk4ze/space-rabbits/blob/master/readme-assets/bullet.gif)
 
-・enemy buttle⚔
+・enemy battle⚔
 
 ![enemy](https://github.com/natsuk4ze/space-rabbits/blob/master/readme-assets/enemy.gif)
 
