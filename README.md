@@ -26,3 +26,7 @@ Clone this repo and hit _game.exe_ file, located in project root.
 ## Supported OS
 
 * Windows
+
+## Supported Language
+
+* Ja
