@@ -1,6 +1,6 @@
 # Space Rabbits🐰
 
-Hi👋 Space Rabbits is 2D shooting game using DirectX.
+Hi👋 Space Rabbits is 2D shooting game ceated by [Midori](https://github.com/natsuk4ze) using DirectX.
  
 ![showcase](https://github.com/natsuk4ze/space-rabbits/blob/master/readme-assets/showcase.gif)
 
