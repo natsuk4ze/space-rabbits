@@ -33,4 +33,4 @@ Clone this repo and hit _game.exe_ file, located in project root.
 
 ## License
 
-All rights to the images belong to the author.
+The rights of images belong to the author. (I borrowed it from a free source a very long time ago, but I couldn't find the source...😢)
