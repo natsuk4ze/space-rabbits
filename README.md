@@ -30,3 +30,7 @@ Clone this repo and hit _game.exe_ file, located in project root.
 ## Supported Language
 
 * Ja
+
+## License
+
+All rights to the images belong to the author.
